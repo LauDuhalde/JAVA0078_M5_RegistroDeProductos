@@ -7,7 +7,7 @@ Este proyecto es una aplicación web simple desarrollada con **Jakarta Servlets 
 ## Estructura del Proyecto
 
 ```
-src/java
+src/main/java
  └── cl/
      ├── clases/
      │   ├── Producto.java
