@@ -27,7 +27,7 @@
 	
 	        <!-- Precio -->
 	        <label for="precio">Precio:</label>
-	        <input type="number" id="precio" name="precio" step="0.01" required>
+	        <input type="number" id="precio" name="precio" required>
 	        <br><br>
 	
 	        <!-- Oferta -->
